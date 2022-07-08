@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+Mi imagen es la siguiente:
+<br>
+![Imagen del Yaktocat](https://www.udual.org/principal/wp-content/uploads/2021/11/LOGO_EPN.jpg)
