@@ -15,3 +15,10 @@ __b__
    2. *Laboratorio*
    3. *Deberes*
 :star2: :star2: :star2: :star2: :star2:
+*Este texto estará en cursiva*
+_Este también estará en cursiva_
+
+**Este texto estará en negrita**
+__Este también estará en negrita__
+
+_También **puedes** combinarlos_
