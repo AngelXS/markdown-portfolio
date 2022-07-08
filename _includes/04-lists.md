@@ -1,4 +1,4 @@
-:sparkles: __CV de Luis__
+:sparkles: _CV de Luis_
 <br>
 :star2: :star2: :star2: :star2: :star2:
 <br>
@@ -6,6 +6,8 @@ LISTA
 <br>
 :star2: :star2: :star2: :star2: :star2:
 <br>
+__a__
+__b__
 1. **Aplicaciones Distribuidas**
 2. **Evaluación de Redes**
 3. **Redes e Intranets**
