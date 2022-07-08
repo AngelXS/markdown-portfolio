@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+Para más información:
+[Ayuda](http://github.com)
+se debe consultar más informacion [Ayuda](http://github.com)
